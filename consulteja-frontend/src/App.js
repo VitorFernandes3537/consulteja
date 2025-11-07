@@ -7,7 +7,7 @@ import NewProductForm from './components/NewProductForm';
 import ProductsModal from "./components/ProductsModal";
 
 
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = 'https://consulteja.onrender.com';
 
 function App() {
   const [codigo, setCodigo] = useState('');
