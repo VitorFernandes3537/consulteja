@@ -4,7 +4,7 @@ import path from "path";
 import cors from "cors";
 import { fileURLToPath } from "url";
 
-// Corrige __dirname em ES Modules
+// __dirname em ES Modules
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
