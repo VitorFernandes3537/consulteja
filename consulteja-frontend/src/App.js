@@ -150,7 +150,7 @@ function App() {
           </div>
         </div>
 
-        {process.env.NODE.ENV !== "production" && produtosLista.length > 0 && (
+        {process.env.NODE_ENV !== "production" && produtosLista.length > 0 && (
           <section className="mt-5">
             <h2 className="h5 mb-3">Produtos cadastrados (admin)</h2>
             <div className="table-responsive">
