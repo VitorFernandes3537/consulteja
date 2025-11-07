@@ -14,9 +14,20 @@ const PORT = process.env.PORT || 3001;
 // Caminhos ABSOLUTOS corretos
 const DB_PATH = path.join(__dirname, "produtos.json");
 const ASSETS_PATH = path.join(__dirname, "assets");
+const allowedOrigins = ["http://localhost:3000", "https://consulteja-plum.vercel.app"];
 
 // Middleware
-app.use(cors());
+app.use(
+  cors({
+    origin: function (origin, callback) {
+      if (!origin || allowedOrigins.includes(origin)) {
+        callback(null, true);
+      } else {
+        callback(new Error("Not allowed by CORS"));
+      }
+    },
+  })
+);
 app.use(express.json());
 
 // Servir a pasta de imagens estáticas
