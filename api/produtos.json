@@ -4,69 +4,69 @@
     "nome": "Café Premium 500g",
     "descricao": "Café torrado e moído, seleção especial de grãos.",
     "preco": 19.9,
-    "imagemUrl": "http://localhost:3001/assets/cafe-premium.webp"
+    "imagemUrl": "https://consulteja.onrender.com/assets/cafe-premium.webp"
   },
   {
     "codigo": "7891000000027",
     "nome": "Leite Integral 1L",
     "descricao": "Leite integral UHT longa vida.",
     "preco": 5.49,
-    "imagemUrl": "http://localhost:3001/assets/leite-integral.png"
+    "imagemUrl": "https://consulteja.onrender.com/assets/leite-integral.png"
   },
   {
     "codigo": "7891000000034",
     "nome": "Detergente Líquido 500ml",
     "descricao": "Detergente neutro para limpeza de louças e utensílios.",
     "preco": 2.99,
-    "imagemUrl": "http://localhost:3001/assets/detergente.webp"
+    "imagemUrl": "https://consulteja.onrender.com/assets/detergente.webp"
   },
   {
     "codigo": "7891000000041",
     "nome": "Arroz Branco Tipo 1",
     "descricao": "Arroz branco tipo 1, grãos selecionados e alto rendimento.",
     "preco": 21.5,
-    "imagemUrl": "http://localhost:3001/assets/arroz.webp"
+    "imagemUrl": "https://consulteja.onrender.com/assets/arroz.webp"
   },
   {
     "codigo": "7891000000058",
     "nome": "Feijão Carioca 1kg",
     "descricao": "Feijão carioca com grãos graúdos e sabor tradicional.",
     "preco": 9.9,
-    "imagemUrl": "http://localhost:3001/assets/feijao.webp"
+    "imagemUrl": "https://consulteja.onrender.com/assets/feijao.webp"
   },
   {
     "codigo": "7891000000065",
     "nome": "Macarrão Espaguete 500g",
     "descricao": "Macarrão espaguete feito com trigo especial.",
     "preco": 4.49,
-    "imagemUrl": "http://localhost:3001/assets/macarrao.webp"
+    "imagemUrl": "https://consulteja.onrender.com/assets/macarrao.webp"
   },
   {
     "codigo": "7891000000072",
     "nome": "Suco Natural 1L",
     "descricao": "Suco 100% natural de laranja, sem adição de açúcar.",
     "preco": 6.79,
-    "imagemUrl": "http://localhost:3001/assets/suco-natural.webp"
+    "imagemUrl": "https://consulteja.onrender.com/assets/suco-natural.webp"
   },
   {
     "codigo": "7891000000089",
     "nome": "Sabonete Hidratante",
     "descricao": "Sabonete com extrato de aveia e glicerina vegetal.",
     "preco": 20.89,
-    "imagemUrl": "http://localhost:3001/assets/sabonete.webp"
+    "imagemUrl": "https://consulteja.onrender.com/assets/sabonete.webp"
   },
   {
     "codigo": "7891000000096",
     "nome": "Óleo de Soja 900ml",
     "descricao": "Óleo de soja refinado, ideal para frituras e receitas leves.",
     "preco": 7.39,
-    "imagemUrl": "http://localhost:3001/assets/oleo-soja.webp"
+    "imagemUrl": "https://consulteja.onrender.com/assets/oleo-soja.webp"
   },
   {
     "codigo": "7891000000102",
     "nome": "Biscoito Recheado 120g",
     "descricao": "Biscoito crocante sabor chocolate com recheio cremoso.",
     "preco": 3.59,
-    "imagemUrl": "http://localhost:3001/assets/biscoito.webp"
+    "imagemUrl": "https://consulteja.onrender.com/assets/biscoito.webp"
   }
 ]
